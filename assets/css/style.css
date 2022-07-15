@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-BoldItalic.ttf');
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    margin-top: 15%;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
